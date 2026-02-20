@@ -13,6 +13,9 @@ I used Euler's method to model the trajectories of the projectiles, while accoun
 
 ## Example Outputs
 
+![Projectile Paths](images/Projectile-paths.png)
+
+![Phase Space Analysis](images/Phase-Space.png)
 
 ## Tools Used
 
